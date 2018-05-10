@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="snow_name" label="Snow Name" language="en" table="x_120126_comnoc_snow_category">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>snow_name</element>
+            <help/>
+            <hint/>
+            <label>Snow Name</label>
+            <language>en</language>
+            <name>x_120126_comnoc_snow_category</name>
+            <plural>Snow Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-10 07:28:38</sys_created_on>
+            <sys_id>c805cea84f4213002fb28fe18110c7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Snow Name</sys_name>
+            <sys_package display_value="ComNoc" source="x_120126_comnoc">f2d20c904f0213002fb28fe18110c721</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ComNoc">f2d20c904f0213002fb28fe18110c721</sys_scope>
+            <sys_update_name>sys_documentation_x_120126_comnoc_snow_category_snow_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-10 07:28:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

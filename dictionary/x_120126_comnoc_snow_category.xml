@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Snow Category" max_length="40" name="x_120126_comnoc_snow_category" type="collection">
+        <element label="Snow Name" max_length="32" name="snow_name" type="string"/>
+    </element>
+</database>
