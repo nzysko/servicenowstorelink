@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="36ce20504f8213002fb28fe18110c75f" sys_domain="global" table="x_120126_comnoc_old_item" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:33:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b6ce60d04f8213002fb28fe18110c701</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_120126_comnoc_old_item" name="x_120126_comnoc_old_item" sys_domain="global" view="62722e734fb513002fb28fe18110c769">36ce20504f8213002fb28fe18110c75f</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_old_item" sys_domain="global" view="62722e734fb513002fb28fe18110c769">7ace20504f8213002fb28fe18110c764</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:33:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:33:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76ce20504f8213002fb28fe18110c764</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_120126_comnoc_old_item" name="x_120126_comnoc_old_item" sys_domain="global" view="62722e734fb513002fb28fe18110c769">36ce20504f8213002fb28fe18110c75f</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_120126_comnoc_old_item" sys_domain="global" view="62722e734fb513002fb28fe18110c769">face20504f8213002fb28fe18110c762</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:33:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:33:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6ce20504f8213002fb28fe18110c762</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_120126_comnoc_old_item" name="x_120126_comnoc_old_item" sys_domain="global" view="62722e734fb513002fb28fe18110c769">36ce20504f8213002fb28fe18110c75f</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_120126_comnoc_old_item" sys_domain="global" view="62722e734fb513002fb28fe18110c769">fece20504f8213002fb28fe18110c760</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:33:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_120126_comnoc_old_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:33:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36ce20504f8213002fb28fe18110c75f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_120126_comnoc_old_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ComNoc" source="x_120126_comnoc">f2d20c904f0213002fb28fe18110c721</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ComNoc">f2d20c904f0213002fb28fe18110c721</sys_scope>
+            <sys_update_name>sys_ui_form_sections_36ce20504f8213002fb28fe18110c75f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:33:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Case" name="case">62722e734fb513002fb28fe18110c769</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

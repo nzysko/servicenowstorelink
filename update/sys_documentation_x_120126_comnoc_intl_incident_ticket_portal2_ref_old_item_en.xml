@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="ref_old_item" label="Ref Old Item" language="en" table="x_120126_comnoc_intl_incident_ticket_portal2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ref_old_item</element>
+            <help/>
+            <hint/>
+            <label>Ref Old Item</label>
+            <language>en</language>
+            <name>x_120126_comnoc_intl_incident_ticket_portal2</name>
+            <plural>Ref Old Items</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 05:19:19</sys_created_on>
+            <sys_id>90dd54d04f4213002fb28fe18110c77a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ref Old Item</sys_name>
+            <sys_package display_value="ComNoc" source="x_120126_comnoc">f2d20c904f0213002fb28fe18110c721</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ComNoc">f2d20c904f0213002fb28fe18110c721</sys_scope>
+            <sys_update_name>sys_documentation_x_120126_comnoc_intl_incident_ticket_portal2_ref_old_item_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 05:19:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

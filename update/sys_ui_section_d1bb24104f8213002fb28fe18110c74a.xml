@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="d1bb24104f8213002fb28fe18110c74a" sys_domain="global" table="x_120126_comnoc_intl_incident_ticket_portal2" version="3" view="case">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sn_res_shaper_resolution_shaper.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>5dbb24104f8213002fb28fe18110c74a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="ResolutionShaper">58dca524d77002004f1e82285e610309</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>ddbb24104f8213002fb28fe18110c74a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>51bb24104f8213002fb28fe18110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>d1bb24104f8213002fb28fe18110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sn_app_cs_social_social_profile</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>55bb24104f8213002fb28fe18110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>d5bb24104f8213002fb28fe18110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>59bb24104f8213002fb28fe18110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>consumer</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>d9bb24104f8213002fb28fe18110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>5dbb24104f8213002fb28fe18110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>ddbb24104f8213002fb28fe18110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>partner_contact</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>51bb24104f8213002fb28fe18110c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>d1bb24104f8213002fb28fe18110c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>55bb24104f8213002fb28fe18110c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>d5bb24104f8213002fb28fe18110c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>59bb24104f8213002fb28fe18110c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>d9bb24104f8213002fb28fe18110c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contract</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>5dbb24104f8213002fb28fe18110c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entitlement</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>ddbb24104f8213002fb28fe18110c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>partner</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>51bb24104f8213002fb28fe18110c74d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>d1bb24104f8213002fb28fe18110c74d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_id>59bbac104f8213002fb28fe18110c736</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="62722e734fb513002fb28fe18110c769">d1bb24104f8213002fb28fe18110c74a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_120126_comnoc_intl_incident_ticket_portal2</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:20:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1bb24104f8213002fb28fe18110c74a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_120126_comnoc_intl_incident_ticket_portal2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ComNoc" source="x_120126_comnoc">f2d20c904f0213002fb28fe18110c721</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ComNoc">f2d20c904f0213002fb28fe18110c721</sys_scope>
+            <sys_update_name>sys_ui_section_d1bb24104f8213002fb28fe18110c74a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:20:01</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Case" name="case">62722e734fb513002fb28fe18110c769</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

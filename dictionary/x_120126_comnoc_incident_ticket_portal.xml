@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sn_customerservice_case" label="Incident Ticket Portal" max_length="40" name="x_120126_comnoc_incident_ticket_portal" type="collection">
+        <element display="true" label="Incident Ticket Category" max_length="32" name="incident_ticket_category" type="string"/>
+    </element>
+</database>

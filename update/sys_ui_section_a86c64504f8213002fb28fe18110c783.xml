@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="a86c64504f8213002fb28fe18110c783" sys_domain="global" table="x_120126_comnoc_intl_incident_ticket_portal2" version="3" view="sp">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:22:59</sys_created_on>
+            <sys_id>a06c64504f8213002fb28fe18110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="ec2daaf9d7523100a9ad1e173e24d4ea">a86c64504f8213002fb28fe18110c783</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:22:59</sys_created_on>
+            <sys_id>246c64504f8213002fb28fe18110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="ec2daaf9d7523100a9ad1e173e24d4ea">a86c64504f8213002fb28fe18110c783</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intl_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:22:59</sys_created_on>
+            <sys_id>a46c64504f8213002fb28fe18110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="ec2daaf9d7523100a9ad1e173e24d4ea">a86c64504f8213002fb28fe18110c783</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incident_ticket_category</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:22:59</sys_created_on>
+            <sys_id>286c64504f8213002fb28fe18110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="ec2daaf9d7523100a9ad1e173e24d4ea">a86c64504f8213002fb28fe18110c783</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:22:59</sys_created_on>
+            <sys_id>a86c64504f8213002fb28fe18110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="ec2daaf9d7523100a9ad1e173e24d4ea">a86c64504f8213002fb28fe18110c783</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ref_old_item</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:22:59</sys_created_on>
+            <sys_id>2c6c64504f8213002fb28fe18110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="ec2daaf9d7523100a9ad1e173e24d4ea">a86c64504f8213002fb28fe18110c783</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ref_old_item.old_item_number</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:22:59</sys_created_on>
+            <sys_id>ac6c64504f8213002fb28fe18110c784</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="ec2daaf9d7523100a9ad1e173e24d4ea">a86c64504f8213002fb28fe18110c783</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:22:59</sys_created_on>
+            <sys_id>206c64504f8213002fb28fe18110c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_120126_comnoc_intl_incident_ticket_portal2" sys_domain="global" view="ec2daaf9d7523100a9ad1e173e24d4ea">a86c64504f8213002fb28fe18110c783</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_120126_comnoc_intl_incident_ticket_portal2</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 06:22:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a86c64504f8213002fb28fe18110c783</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_120126_comnoc_intl_incident_ticket_portal2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ComNoc" source="x_120126_comnoc">f2d20c904f0213002fb28fe18110c721</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ComNoc">f2d20c904f0213002fb28fe18110c721</sys_scope>
+            <sys_update_name>sys_ui_section_a86c64504f8213002fb28fe18110c783</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 06:22:59</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Service Portal" name="sp">ec2daaf9d7523100a9ad1e173e24d4ea</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

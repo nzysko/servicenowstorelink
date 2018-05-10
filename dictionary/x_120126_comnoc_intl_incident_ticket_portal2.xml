@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_120126_comnoc_incident_ticket_portal" label="INTL Incident Ticket Portal2" max_length="40" name="x_120126_comnoc_intl_incident_ticket_portal2" sizeclass="1" type="collection">
+        <element label="INTL name" max_length="32" name="intl_name" type="string"/>
+        <element label="Ref Old Item" max_length="32" name="ref_old_item" reference="x_120126_comnoc_old_item" type="reference"/>
+    </element>
+</database>

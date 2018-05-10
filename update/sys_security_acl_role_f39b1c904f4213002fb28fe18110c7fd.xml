@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-09 05:09:44</sys_created_on>
+        <sys_id>f39b1c904f4213002fb28fe18110c7fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_120126_comnoc_intl_incident_ticket_portal2.x_120126_comnoc.intl_incident_ticket_portal2_user</sys_name>
+        <sys_package display_value="ComNoc" source="x_120126_comnoc">f2d20c904f0213002fb28fe18110c721</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ComNoc">f2d20c904f0213002fb28fe18110c721</sys_scope>
+        <sys_security_acl display_value="x_120126_comnoc_intl_incident_ticket_portal2">b79b50504f4213002fb28fe18110c7ab</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f39b1c904f4213002fb28fe18110c7fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-09 05:09:44</sys_updated_on>
+        <sys_user_role display_value="x_120126_comnoc.intl_incident_ticket_portal2_user" name="x_120126_comnoc.intl_incident_ticket_portal2_user">679b50504f4213002fb28fe18110c7a5</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
