@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="sn_customerservice_case" label="Old Item" max_length="40" name="x_120126_comnoc_old_item" sizeclass="1" type="collection">
+    <element extends="sn_customerservice_case" label="Old Item" max_length="40" name="x_120126_comnoc_old_item" type="collection">
         <element label="Old Item Number" max_length="32" name="old_item_number" type="string"/>
     </element>
 </database>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="GitHub Category" max_length="40" name="x_120126_comnoc_github_category" type="collection">
+        <element label="Category Name" max_length="32" name="category_name" type="string"/>
+        <element label="Category Number" max_length="32" name="category_number" type="string"/>
+    </element>
+</database>
